@@ -1,7 +1,5 @@
 # Dynamic Grading & Assessment Platform
 
-By **Ignasius Deva**
-
 This project is a web-based application designed to provide educators with a flexible and powerful tool for creating dynamic student score sheets. Moving beyond the limitations of rigid spreadsheets, this platform empowers teachers to design their own grading structures from the ground up, tailored precisely to their curriculum and evaluation methodology.
 
 ## 🌟 Key Features
